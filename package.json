@@ -1,6 +1,6 @@
 {
   "name": "mortgage-calculator",
-  "homepage": "https://serhii-dvorets.github.io/currency-converter",
+  "homepage": "https://serhii-dvorets.github.io/mortgage-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
