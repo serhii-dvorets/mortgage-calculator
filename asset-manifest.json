@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/currency-converter/static/css/main.bf0cafff.css",
-    "main.js": "/currency-converter/static/js/main.6a7c4c2a.js",
-    "index.html": "/currency-converter/index.html",
-    "main.bf0cafff.css.map": "/currency-converter/static/css/main.bf0cafff.css.map",
-    "main.6a7c4c2a.js.map": "/currency-converter/static/js/main.6a7c4c2a.js.map"
+    "main.css": "/mortgage-calculator/static/css/main.bf0cafff.css",
+    "main.js": "/mortgage-calculator/static/js/main.6a7c4c2a.js",
+    "index.html": "/mortgage-calculator/index.html",
+    "main.bf0cafff.css.map": "/mortgage-calculator/static/css/main.bf0cafff.css.map",
+    "main.6a7c4c2a.js.map": "/mortgage-calculator/static/js/main.6a7c4c2a.js.map"
   },
   "entrypoints": [
     "static/css/main.bf0cafff.css",
