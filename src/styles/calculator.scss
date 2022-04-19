@@ -1,0 +1,45 @@
+.calculator {
+  background-color: rgb(60, 60, 60);
+  box-shadow: 0px 0px 5px rgb(0, 0, 0);
+  border-radius: 10px;
+  margin: 0 20px;
+
+  &__container {
+    display: flex;
+    padding: 0 30px;
+  }
+
+  &__title {
+    text-align: right;
+    font-size: 20px;
+    color: #fff;
+    text-shadow: 0 0 5px #000;
+    font-weight: bold;
+    padding: 20px 30px;
+  }
+
+  &__select {
+    background-color: rgb(60, 60, 60);
+    color: #fff;
+  }
+
+  &__result-container {
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    font-size: 30px;
+
+  }
+
+  &__result-title {
+    color: #fff;
+    margin-right: 20px;
+  }
+
+  &__result-price {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+  }
+}

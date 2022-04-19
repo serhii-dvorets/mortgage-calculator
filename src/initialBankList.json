@@ -1,0 +1,7 @@
+[
+  {"name": "PrivatBank", "rate": 20, "loan": 100000, "payment": 20, "term": "10"},
+  {"name": "RaiffaisenBank", "rate": 22, "loan": 1000000, "payment": 20, "term": "10"},
+  {"name": "OshadBank", "rate": 18, "loan": 90000, "payment": 15, "term": "12"},
+  {"name": "AlfaBank", "rate": 19, "loan": 180000, "payment": 30, "term": "8"},
+  {"name": "CreditAgricole", "rate": 21, "loan": 300000, "payment": 25, "term": "14"}
+]
